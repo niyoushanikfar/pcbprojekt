@@ -10,4 +10,5 @@ void loop() {
 Serial.println("Hello joje");
 Serial.println("Hello joje");
 Serial.println("Hellooooo");
+Serial.println("ZZZZZZZZZ");
 }
